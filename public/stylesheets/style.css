@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+header h1, h4{
+	text-align: center;
+	font-weight: 500;
+}
+
+
+.formC {
+  position: absolute;
+	padding: 40px;
+	margin-left: 40%;
+	margin-top : 10%;
+	
+}
+
+.formC form input{
+	border: 2px solid black;
+	padding: 8px;
+}
+
+.formC form button{
+	padding: 8px;
+	background-color: rgba(0,0,128);
+	border:none;
+	color: white;
+	border-radius: 3px;
+	float: right;
+	box-shadow: 2px 3px 5px  black;
+}
